@@ -10,3 +10,4 @@ __pycache__/
 
 # Ignore the entire data directory and all its contents
 data/
+reference/
